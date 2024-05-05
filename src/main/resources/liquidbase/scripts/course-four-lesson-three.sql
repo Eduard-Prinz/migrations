@@ -1,0 +1,3 @@
+CREATE  INDEX IDX_STUDENTS_NAME ON students(name);
+
+CREATE  INDEX IDX_FACULTIES_NAME_COLOR ON faculties(name, color);
